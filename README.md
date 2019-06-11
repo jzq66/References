@@ -2,7 +2,7 @@
 
 DeepLearing 的数学基础部分: AI Machine Learning/DeepLearningBook.pdf
 
-数学建模引论： Frank William Fox Steven Horton-First Course in Mathematical Modeling-Cengage Learning(2013).pdf
+数学建模引论： mathematicals/Frank William Fox Steven Horton-First Course in Mathematical Modeling-Cengage Learning(2013).pdf
 
 Hands on tensorflow: AI Machine Learning/Hands.On.TensorFlow.pdf
 
