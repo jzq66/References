@@ -1,3 +1,5 @@
+computing-complexity：斯坦福算法分析与设计课参考书目
+
 黑客与画家 Hackers & Painters.pdf， 这本书比较有趣，可以用来锻炼英文
 
 DeepLearing 的数学基础部分: AI Machine Learning/DeepLearningBook.pdf
